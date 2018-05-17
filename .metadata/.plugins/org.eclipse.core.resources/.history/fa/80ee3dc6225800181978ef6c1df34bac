@@ -1,0 +1,15 @@
+import java.util.*;
+
+public class ProbH {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}
+class Position{
+	int x;
+	int y;
+	int d;
+}
