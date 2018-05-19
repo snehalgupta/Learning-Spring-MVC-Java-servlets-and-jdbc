@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="C:\Users\Snehal\Desktop\Snehal\Data Structures and Algorithms\My submissions"/>
 		<item value="C:\Users\Snehal\Desktop\MYPRO"/>
 	</list>
 	<section name="NewWizardAction">
