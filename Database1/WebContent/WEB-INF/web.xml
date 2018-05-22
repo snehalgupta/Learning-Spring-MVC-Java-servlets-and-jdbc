@@ -12,4 +12,13 @@
    <listener>
   <listener-class>MyListener</listener-class>
   </listener>
+  <servlet>
+<servlet-name>MyHttpServletDemo</servlet-name>
+<servlet-class>FetchData</servlet-class>
+</servlet>
+
+<servlet-mapping>
+<servlet-name>MyHttpServletDemo</servlet-name>
+<url-pattern>/servlet1</url-pattern>
+</servlet-mapping>
 </web-app>
